@@ -9,3 +9,5 @@ redirect_from:
 ---
 
 Ola sou o Franciso esse é o meu site
+
+Sou musico baterista, moro na Lapa - PR e estudante de Ciência da Computação
